@@ -1,7 +1,7 @@
 # FizzBuzz Program
 
 ## Description
-This is a simple Python program that prints numbers from 1 to 100. However, for multiples of three, it prints "Fizz" instead of the number, and for the multiples of five, it prints "Buzz". For numbers which are multiples of both three and five, it prints "FizzBuzz".
+This is a simple program that prints numbers from 1 to 100. However, for multiples of three, it prints "Fizz" instead of the number, and for the multiples of five, it prints "Buzz". For numbers which are multiples of both three and five, it prints "FizzBuzz".
 
 ## Installation
 1. Make sure you have the correct programm languege installed on your system. 
