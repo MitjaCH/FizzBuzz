@@ -37,5 +37,3 @@ Feel free to modify the program or its parameters to suit your needs.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or create a pull request.
-
-
