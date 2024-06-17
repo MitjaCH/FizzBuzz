@@ -10,7 +10,7 @@ This is a simple program that prints numbers from 1 to 100. However, for multipl
 ## Usage
 1. Navigate to the directory where you cloned or extracted the repository.
 2. Open a terminal or command prompt in that directory.
-3. Run the program 
+3. Run or Compile the program
 
 ## Example Output
 ```
